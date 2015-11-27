@@ -28,9 +28,8 @@ void bfree(void *objectptr)
 	return;
 }
 
-
-void bprint(void) 
+void bprint(void)
 {
-  printf ("bprint called\n"); 
-  return; 
+	printf("bprint called\n");
+	return;
 }
