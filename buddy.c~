@@ -1,29 +1,35 @@
 
+
 #include <stdlib.h>
 #include <stdio.h>
 
+
 // printfs are for debugging; remove them when you use/submit your library
+
 
 int binit(void *chunkpointer, int chunksize)
 {
 
-	printf("binit called\n");
+  printf ("binit called\n"); 
 
-	return (0);		// if success
+  return (0); // if success
 }
 
-void *balloc(int objectsize)
+void *balloc (int objectsize)
 {
 
-	printf("balloc called\n");
+  printf ("balloc called\n"); 
 
-	return (NULL);		// if not success
+  return (NULL); // if not success
 }
+
 
 void bfree(void *objectptr)
 {
 
-	printf("bfree called\n");
+  printf ("bfree called\n"); 
 
-	return;
+  return; 
 }
+
+
