@@ -27,3 +27,10 @@ void bfree(void *objectptr)
 
 	return;
 }
+
+
+void bprint(void) 
+{
+  printf ("bprint called\n"); 
+  return; 
+}
