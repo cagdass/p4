@@ -25,13 +25,13 @@ int binit(void *chunkpointer, int chunksize) {
 	start_address =  (long int *) chunkpointer;
 
 	//set all blocks to not free
-	memset(start_address, INDICATE_ALLOCATED, chunksize);
+	memset(start_address, 0, chunksize);
 
 
 	//precompute powers of two for faster performance
 	int current_power;
 	int i = 0;
-	for(current_power = chunksize; current_power >= MIN_REQ_SIZE; current_power >> 1){
+	for(current_power = chunksize; current_power >= MIN_REQ_SIZE; current_power /= 2){
 		powers_of_two[i] = current_power;
 		i++;
 	}
@@ -104,7 +104,7 @@ long int allocate_at_level(int level){
 		// set the indicators for free and allocated blocks. 
 		// Also set the next and prev pointers of the free block to NULL,
 		// since it is the only one in the list of free blocks at this level
-		start_address[(first_block - (long int) start_address) / sizeof(long int *)] = INDICATE_ALLOCATED; //indicate that it is full
+		start_address[(first_block - (long int) start_address) / sizeof(long int *)] = level; //indicate that it is full
 		start_address[(second_block - (long int) start_address) / sizeof(long int *)] = -level; //indicate that it is free and record its level, both as -level
 		start_address[(second_block - (long int) start_address) / sizeof(long int *) + 1] = (long int) NULL; //pointer to next free block. Null currently
 		start_address[(second_block - (long int) start_address) / sizeof(long int *) + 2] = (long int) NULL; //pointer to previous. Null currently
@@ -124,7 +124,7 @@ long int allocate_at_level(int level){
 	    	start_address[(free_block_lists[level] - (long int) start_address)/sizeof(long int *) + 2] = (long int) NULL;
 	    }
 
-		block_address[0] = INDICATE_ALLOCATED; //tag this block as allocated
+		block_address[0] = level; //tag this block as allocated
 
 		return (long int) block_address;		
 	}
@@ -141,6 +141,24 @@ void bfree(void *objectptr) {
 
 void bprint(void) {
 	printf("bprint called\n");
+	
+
+	long int * i = start_address;
+	if (i[0] == 0 && free_block_lists[0] != (long int)NULL){
+		printf("The chunk is completely free\n");
+		return;
+	}
+
+	while ( (long int) i <  (long int) start_address + size) {
+		long int level = i[0];
+		if (level <= 0){
+			printf("Free block of size, level, and address:\n%d\n%ld\n%ld\n", powers_of_two[-level], -level, (long int) i);
+			i += powers_of_two[-level];
+		} else {
+			printf("Allocated block of size, level, and address:\n%d\n%ld\n%ld\n", powers_of_two[level], level, (long int) i);	
+			i += powers_of_two[level];
+		}		
+	}
 	return;
 }
 
