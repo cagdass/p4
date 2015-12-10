@@ -20,9 +20,11 @@ int powers_of_two[17];
 
 
 int binit(void *chunkpointer, int chunksize) {
-
-	printf("binit called\n");
+	
+	chunksize *= 1024;
 	start_address =  (long int *) chunkpointer;
+
+	printf("binit called with chunksize\n%d\nChunkPtr\n%ld\n\n", chunksize, (long int) start_address);
 
 	//set all blocks to not free
 	memset(start_address, 0, chunksize);
@@ -31,7 +33,9 @@ int binit(void *chunkpointer, int chunksize) {
 	//precompute powers of two for faster performance
 	int current_power;
 	int i = 0;
+	printf("i\t:\tcurrent_power\n");
 	for(current_power = chunksize; current_power >= MIN_REQ_SIZE; current_power /= 2){
+		printf("%d\t:\t%d\n", i, current_power);
 		powers_of_two[i] = current_power;
 		i++;
 	}
@@ -54,7 +58,7 @@ int binit(void *chunkpointer, int chunksize) {
 
 void *balloc(int objectsize) {
 
-	printf("balloc called\n");
+	printf("balloc called with objectsize = %d\n", objectsize);
 
 	// consider storage cost of additional preample tag that indicates whether the block is free or allocated
 	objectsize+= sizeof(long int *);
@@ -140,7 +144,7 @@ void bfree(void *objectptr) {
 }
 
 void bprint(void) {
-	printf("bprint called\n");
+	printf("%s","---->\tbprint called\n");
 	
 
 	long int * i = start_address;
@@ -149,14 +153,16 @@ void bprint(void) {
 		return;
 	}
 
+	printf("%-20s%-25s%-10s%-25s\n", "Free/Allocated?", "Block Size", "Level", "Relative address");
+
 	while ( (long int) i <  (long int) start_address + size) {
 		long int level = i[0];
 		if (level <= 0){
-			printf("Free block of size, level, and address:\n%d\n%ld\n%ld\n", powers_of_two[-level], -level, (long int) i);
-			i += powers_of_two[-level];
+			printf("%-20s%-25d%-10ld%-25ld\n", "F", powers_of_two[-level], -level, (long int) i - (long int)start_address);
+			i += powers_of_two[-level]/sizeof(long int*);
 		} else {
-			printf("Allocated block of size, level, and address:\n%d\n%ld\n%ld\n", powers_of_two[level], level, (long int) i);	
-			i += powers_of_two[level];
+			printf("%-20s%-25d%-10ld%-25ld\n", "A", powers_of_two[level], level, (long int) i - (long int)start_address);
+			i += powers_of_two[level]/sizeof(long int*);
 		}		
 	}
 	return;

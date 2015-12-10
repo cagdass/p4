@@ -43,9 +43,13 @@ int main(int argc, char *argv[])
 		exit(1);
 	}
 
+	bprint();
 	x1 = balloc(600);
+	bprint();
 	x2 = balloc(4500);
+	bprint();
 	x3 = balloc(1300);
+	bprint();
 
 	bfree(x1);
 	bfree(x2);
