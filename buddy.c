@@ -5,9 +5,9 @@
 #include "buddy.h"
 
 // printfs are for debugging; remove them when you use/submit your library
-#define MAX_LEVELS 17
+#define MAX_LEVELS 17 //assuming 
 #define MIN_REQ_SIZE 256
-#define INDICATE_FREE 56
+#define INDICATE_ALLOCATED 56
 //size of the contiguous memory chunk
 int size;
 //start address of the memory chunk
@@ -25,20 +25,22 @@ int binit(void *chunkpointer, int chunksize) {
 	start_address =  (long int *) chunkpointer;
 
 	//set all blocks to not free
-	memset(start_address, 1, chunksize);
+	memset(start_address, INDICATE_ALLOCATED, chunksize);
 
-	//indicate that the chunk is free by setting the first byte to 0
-	start_address[0] = 0;
-	free_block_lists[0] = (long int) start_address;
 
-	int current_power = chunksize;
-	int i;
-	for(i = 0; current_power >= MIN_REQ_SIZE; current_power /= 2){
+	//precompute powers of two for faster performance
+	int current_power;
+	int i = 0;
+	for(current_power = chunksize; current_power >= MIN_REQ_SIZE; current_power >> 1){
 		powers_of_two[i] = current_power;
 		i++;
 	}
 
-	//initilize the free block lists of each level	
+	//indicate that the chunk is just a free block of the 0th level by setting the first word to 0 
+	start_address[0] = 0;
+	//adding the address of the block of the 0th level to the list of free blocks at level 0
+	free_block_lists[0] = (long int) start_address;
+	//initilize the free block lists of each level to NULL except the 0th level
 	for (i = 1; i < MAX_LEVELS; i++){
 		free_block_lists[i] = (long int) NULL;
 	}
@@ -54,72 +56,80 @@ void *balloc(int objectsize) {
 
 	printf("balloc called\n");
 
-	//find the appropriate level to allocate from
+	// consider storage cost of additional preample tag that indicates whether the block is free or allocated
 	objectsize+= sizeof(long int *);
 
-	if (objectsize > size || objectsize < MIN_REQ_SIZE)
+	// check now that it is within allowed sizes. If not, then return -1 error message
+	if (objectsize > size || objectsize - 1 < MIN_REQ_SIZE)
 		return (void *) -1;
 
+	// find the appropriate level to allocate from
 	int level = 0;
 	while (objectsize < powers_of_two[level+1])
 		level++; 
 	
-	//allocate a block at the level
+	// allocate a block at the level
 	long int block_address = allocate_at_level(level);
-	
-	//if it is -1 (error) return error message
+	 
+	// if it is -1 (error) return error message
 	if (block_address < 0)
 	    return (void *)-1;
-    //otherwise, return the address incremented by one to protect the word indicating that the block is not free and is allocated
-    else
-        return (void *) (block_address + 1);
+    // otherwise, return the address incremented by one to protect the word that is indicating that the block is not free and is actaully allocated
+    else{
+    	block_address++;
+        return (void *) block_address;
+    }
 }
 
 long int allocate_at_level(int level){
 
+	// base case: trying to allocate at level higher than 0!
 	if (level < 0)
 		return -1;
 
 	// checking if there are no free blocks at the wanted level 
 	if (free_block_lists[level] == (long int) NULL){
-		// get a bigger block, recursively
+		// if so is the case, get a bigger block, recursively
 		long int bigger_block = allocate_at_level(level-1);
 		
 		// if no bigger block availble return error
 		if (bigger_block < 0)
-			return (long int)-1;
+			return (long int) -1;
 		
 		// split the bigger block
-		int block_size = powers_of_two[level];
+		int wanted_block_size = powers_of_two[level];
 		long int first_block = bigger_block;
-		long int second_block = bigger_block + block_size;
+		long int second_block = bigger_block + wanted_block_size;
 
-		// set the indicators for free and unfree blocks. 
-		// Also set the next and prev pointers of the free block to NULL 
+		// set the indicators for free and allocated blocks. 
+		// Also set the next and prev pointers of the free block to NULL,
 		// since it is the only one in the list of free blocks at this level
-		start_address[(first_block - (long int) start_address) / sizeof(long int *)] = 1; //indicate that it is full
-		start_address[(second_block - (long int) start_address) / sizeof(long int *)] = -level; //indicate that it is free and record its level
+		start_address[(first_block - (long int) start_address) / sizeof(long int *)] = INDICATE_ALLOCATED; //indicate that it is full
+		start_address[(second_block - (long int) start_address) / sizeof(long int *)] = -level; //indicate that it is free and record its level, both as -level
 		start_address[(second_block - (long int) start_address) / sizeof(long int *) + 1] = (long int) NULL; //pointer to next free block. Null currently
 		start_address[(second_block - (long int) start_address) / sizeof(long int *) + 2] = (long int) NULL; //pointer to previous. Null currently
-
-		free_block_lists[level] = second_block; //add second block to list of free blocks at this level
+		
+		//add second block to list of free blocks at this level
+		free_block_lists[level] = second_block; 
 		return first_block; //return the first block  
 
+	} else { // else there is a free block at this level, then use it 
+		//get the first block in the list of free blocks of this level
+		long int * block_address = (long int *) free_block_lists[level];
+
+		//make the free block list head point the 2nd block in the list, which is possibly NULL, making it the 1st in the list
+		free_block_lists[level] = block_address[1]; 
+		// set what is now the first free block's prev ptr to NULL, since the block is the first one in the list. But check that the block is actually there
+	    if (free_block_lists[level] != (long int) NULL){ 
+	    	start_address[(free_block_lists[level] - (long int) start_address)/sizeof(long int *) + 2] = (long int) NULL;
+	    }
+
+		block_address[0] = INDICATE_ALLOCATED; //tag this block as allocated
+
+		return (long int) block_address;		
 	}
 
-	// if there is a free block at this level, then use it
-	long int * block_address = (long int *) free_block_lists[level];
-	free_block_lists[level] = block_address[1]; //make the free block list head point the 2nd block in the list, possibly NULL
-    if (free_block_lists[level] != (long int) NULL){ // make the now first free block's prev ptr NULL
-    	start_address[(free_block_lists[level] - (long int) start_address)/sizeof(long int *) + 2] = (long int) NULL;
-    }
 
-	block_address[0] = 1; //tag this block as allocated
-
-	return (long int) block_address;
-
-
-	
 }
 
 void bfree(void *objectptr) {
