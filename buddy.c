@@ -129,7 +129,6 @@ long int allocate_at_level(int level){
 	    }
 
 		block_address[0] = level; //tag this block as allocated
-
 		return (long int) block_address;		
 	}
 
@@ -138,7 +137,27 @@ long int allocate_at_level(int level){
 
 void bfree(void *objectptr) {
 
-	printf("bfree called\n");
+	long int address = objectptr - 1;
+
+	// returned -1 as error code in balloc, so that -1-1 = -2 means we cannot proceed with freeing this time
+	if(address == -2){
+		return;
+	}
+
+	// create a variable to point to the start of this block
+	long int* start_address = (long int *) address;
+
+	// level of this block to be deallocated
+	int level = start_address[0];
+	
+	// if there are no free blocks at this level, then buddy to merge with either and 
+	if(free_block_lists[level] == (long int) NULL)){
+		free_block_lists[level] = start_address;
+	}
+	else{
+		// start_address[1] = free_block_lists[level];
+	}
+
 
 	return;
 }
