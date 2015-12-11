@@ -29,8 +29,14 @@ with open('results.txt', 'r') as f:
 		blocksize = 512
 		cursize *= 2
 
+cursize = 32
+blocksize = 512
 
 for i in xrange(0, len(res)):
+	print "cursize: " + str(cursize)
 	for j in xrange(0, len(res[i])):
 		print res[i][j],
+		blocksize *= 2
+	cursize *= 2
+	blocksize = 512
 	print
