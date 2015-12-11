@@ -23,18 +23,19 @@ int main(int argc, char *argv[])
 	int i;
 	int size;
 	int num_of_objects;
+	int blocksize;
 	// void *x1, *x2, *x3, *x4;	// object pointers
 	// a list of object pointers
 	void ** object_pointers;
 	// a list of block sizes
 
-	if (argc < 2) {
+	if (argc < 3) {
 		printf("usage: app <size in KB>\n");
 		exit(1);
 	}
 
 	size = atoi(argv[1]);
-
+	blocksize = atoi(argv[2]);
 	num_of_objects = (size * 1024) / 256;
 	object_pointers = (void**)malloc(sizeof(void*) * num_of_objects);
 
@@ -63,7 +64,7 @@ int main(int argc, char *argv[])
 
 	// bprint();
 	for(i = 0; i < num_of_objects; i++){
-		object_pointers[i] = balloc(500);
+		object_pointers[i] = balloc(blocksize);
 		// bprint();
 	}
 	for(i = 0; i < num_of_objects; i++){
