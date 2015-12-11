@@ -1,0 +1,2420 @@
+chunkstart=6eb000, chunkend=6f3000, chunksize=32768 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000299 ms
+chunkstart=1074000, chunkend=107c000, chunksize=32768 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000287 ms
+chunkstart=e51000, chunkend=e59000, chunksize=32768 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000323 ms
+chunkstart=2536000, chunkend=253e000, chunksize=32768 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000243 ms
+chunkstart=147d000, chunkend=1485000, chunksize=32768 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000302 ms
+chunkstart=211d000, chunkend=2125000, chunksize=32768 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000276 ms
+chunkstart=e01000, chunkend=e09000, chunksize=32768 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000267 ms
+chunkstart=25ec000, chunkend=25f4000, chunksize=32768 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000296 ms
+chunkstart=1682000, chunkend=168a000, chunksize=32768 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000203 ms
+chunkstart=172d000, chunkend=1735000, chunksize=32768 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000289 ms
+chunkstart=1ff0000, chunkend=1ff8000, chunksize=32768 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000200 ms
+chunkstart=ac1000, chunkend=ac9000, chunksize=32768 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000186 ms
+chunkstart=2585000, chunkend=258d000, chunksize=32768 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000183 ms
+chunkstart=c6c000, chunkend=c74000, chunksize=32768 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000177 ms
+chunkstart=2042000, chunkend=204a000, chunksize=32768 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000186 ms
+chunkstart=8b5000, chunkend=8bd000, chunksize=32768 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000186 ms
+chunkstart=13a4000, chunkend=13ac000, chunksize=32768 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000177 ms
+chunkstart=1e5e000, chunkend=1e66000, chunksize=32768 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000198 ms
+chunkstart=17ae000, chunkend=17b6000, chunksize=32768 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000204 ms
+chunkstart=11ff000, chunkend=1207000, chunksize=32768 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000201 ms
+chunkstart=19f1000, chunkend=19f9000, chunksize=32768 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000409 ms
+chunkstart=1ce7000, chunkend=1cef000, chunksize=32768 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000273 ms
+chunkstart=18fd000, chunkend=1905000, chunksize=32768 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000188 ms
+chunkstart=18da000, chunkend=18e2000, chunksize=32768 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000193 ms
+chunkstart=20fe000, chunkend=2106000, chunksize=32768 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000145 ms
+chunkstart=2081000, chunkend=2089000, chunksize=32768 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000145 ms
+chunkstart=1281000, chunkend=1289000, chunksize=32768 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000136 ms
+chunkstart=1fab000, chunkend=1fb3000, chunksize=32768 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000146 ms
+chunkstart=2475000, chunkend=247d000, chunksize=32768 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000142 ms
+chunkstart=17b6000, chunkend=17be000, chunksize=32768 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000140 ms
+chunkstart=1557000, chunkend=1567000, chunksize=65536 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000192 ms
+chunkstart=236e000, chunkend=237e000, chunksize=65536 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000189 ms
+chunkstart=946000, chunkend=956000, chunksize=65536 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000203 ms
+chunkstart=1dc9000, chunkend=1dd9000, chunksize=65536 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000238 ms
+chunkstart=2399000, chunkend=23a9000, chunksize=65536 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000292 ms
+chunkstart=19bc000, chunkend=19cc000, chunksize=65536 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000265 ms
+chunkstart=14c3000, chunkend=14d3000, chunksize=65536 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000232 ms
+chunkstart=f0c000, chunkend=f1c000, chunksize=65536 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000231 ms
+chunkstart=1d4c000, chunkend=1d5c000, chunksize=65536 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000217 ms
+chunkstart=13e2000, chunkend=13f2000, chunksize=65536 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000201 ms
+chunkstart=1028000, chunkend=1038000, chunksize=65536 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000196 ms
+chunkstart=8f5000, chunkend=905000, chunksize=65536 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000163 ms
+chunkstart=15bd000, chunkend=15cd000, chunksize=65536 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000202 ms
+chunkstart=16cb000, chunkend=16db000, chunksize=65536 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000170 ms
+chunkstart=bc3000, chunkend=bd3000, chunksize=65536 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000168 ms
+chunkstart=cf6000, chunkend=d06000, chunksize=65536 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000192 ms
+chunkstart=2270000, chunkend=2280000, chunksize=65536 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000161 ms
+chunkstart=1303000, chunkend=1313000, chunksize=65536 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000166 ms
+chunkstart=25a5000, chunkend=25b5000, chunksize=65536 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000205 ms
+chunkstart=2025000, chunkend=2035000, chunksize=65536 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000173 ms
+chunkstart=1983000, chunkend=1993000, chunksize=65536 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000181 ms
+chunkstart=1e9f000, chunkend=1eaf000, chunksize=65536 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000249 ms
+chunkstart=154e000, chunkend=155e000, chunksize=65536 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000257 ms
+chunkstart=fac000, chunkend=fbc000, chunksize=65536 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000420 ms
+chunkstart=21d2000, chunkend=21e2000, chunksize=65536 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000348 ms
+chunkstart=1363000, chunkend=1373000, chunksize=65536 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000336 ms
+chunkstart=2415000, chunkend=2425000, chunksize=65536 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000324 ms
+chunkstart=12e2000, chunkend=12f2000, chunksize=65536 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000318 ms
+chunkstart=1b37000, chunkend=1b47000, chunksize=65536 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000249 ms
+chunkstart=10cf000, chunkend=10df000, chunksize=65536 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000249 ms
+chunkstart=154c000, chunkend=155c000, chunksize=65536 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000257 ms
+chunkstart=b86000, chunkend=b96000, chunksize=65536 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000176 ms
+chunkstart=2209000, chunkend=2219000, chunksize=65536 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000181 ms
+chunkstart=246e000, chunkend=247e000, chunksize=65536 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000316 ms
+chunkstart=14a3000, chunkend=14b3000, chunksize=65536 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000155 ms
+chunkstart=246c000, chunkend=248c000, chunksize=131072 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000323 ms
+chunkstart=c75000, chunkend=c95000, chunksize=131072 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000345 ms
+chunkstart=2473000, chunkend=2493000, chunksize=131072 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000230 ms
+chunkstart=2363000, chunkend=2383000, chunksize=131072 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000244 ms
+chunkstart=ad9000, chunkend=af9000, chunksize=131072 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000228 ms
+chunkstart=1604000, chunkend=1624000, chunksize=131072 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000232 ms
+chunkstart=1e07000, chunkend=1e27000, chunksize=131072 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000260 ms
+chunkstart=256d000, chunkend=258d000, chunksize=131072 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000220 ms
+chunkstart=1124000, chunkend=1144000, chunksize=131072 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000215 ms
+chunkstart=1678000, chunkend=1698000, chunksize=131072 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000221 ms
+chunkstart=1cbe000, chunkend=1cde000, chunksize=131072 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000205 ms
+chunkstart=1d56000, chunkend=1d76000, chunksize=131072 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000206 ms
+chunkstart=1dd9000, chunkend=1df9000, chunksize=131072 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000209 ms
+chunkstart=edc000, chunkend=efc000, chunksize=131072 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000231 ms
+chunkstart=1685000, chunkend=16a5000, chunksize=131072 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000260 ms
+chunkstart=1903000, chunkend=1923000, chunksize=131072 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000455 ms
+chunkstart=2445000, chunkend=2465000, chunksize=131072 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000311 ms
+chunkstart=1163000, chunkend=1183000, chunksize=131072 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000329 ms
+chunkstart=1b44000, chunkend=1b64000, chunksize=131072 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000295 ms
+chunkstart=1c31000, chunkend=1c51000, chunksize=131072 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000272 ms
+chunkstart=eb8000, chunkend=ed8000, chunksize=131072 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000207 ms
+chunkstart=1766000, chunkend=1786000, chunksize=131072 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000208 ms
+chunkstart=d5a000, chunkend=d7a000, chunksize=131072 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000209 ms
+chunkstart=18b4000, chunkend=18d4000, chunksize=131072 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000214 ms
+chunkstart=14d5000, chunkend=14f5000, chunksize=131072 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000197 ms
+chunkstart=844000, chunkend=864000, chunksize=131072 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000201 ms
+chunkstart=1806000, chunkend=1826000, chunksize=131072 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000209 ms
+chunkstart=1502000, chunkend=1522000, chunksize=131072 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000200 ms
+chunkstart=1c48000, chunkend=1c68000, chunksize=131072 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000191 ms
+chunkstart=1d9c000, chunkend=1dbc000, chunksize=131072 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000195 ms
+chunkstart=2265000, chunkend=2285000, chunksize=131072 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000194 ms
+chunkstart=e85000, chunkend=ea5000, chunksize=131072 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000202 ms
+chunkstart=105a000, chunkend=107a000, chunksize=131072 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000217 ms
+chunkstart=13fd000, chunkend=141d000, chunksize=131072 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000257 ms
+chunkstart=11a8000, chunkend=11c8000, chunksize=131072 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000398 ms
+chunkstart=1197000, chunkend=11b7000, chunksize=131072 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000346 ms
+chunkstart=1f1b000, chunkend=1f3b000, chunksize=131072 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000276 ms
+chunkstart=103c000, chunkend=105c000, chunksize=131072 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000181 ms
+chunkstart=110f000, chunkend=112f000, chunksize=131072 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000184 ms
+chunkstart=98d000, chunkend=9ad000, chunksize=131072 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000180 ms
+chunkstart=9a0000, chunkend=9e0000, chunksize=262144 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000325 ms
+chunkstart=2376000, chunkend=23b6000, chunksize=262144 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000331 ms
+chunkstart=13e8000, chunkend=1428000, chunksize=262144 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000324 ms
+chunkstart=1939000, chunkend=1979000, chunksize=262144 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000310 ms
+chunkstart=16b0000, chunkend=16f0000, chunksize=262144 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000310 ms
+chunkstart=191d000, chunkend=195d000, chunksize=262144 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000316 ms
+chunkstart=cb2000, chunkend=cf2000, chunksize=262144 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000314 ms
+chunkstart=1cb8000, chunkend=1cf8000, chunksize=262144 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000315 ms
+chunkstart=2464000, chunkend=24a4000, chunksize=262144 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000328 ms
+chunkstart=c2a000, chunkend=c6a000, chunksize=262144 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000475 ms
+chunkstart=c06000, chunkend=c46000, chunksize=262144 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000737 ms
+chunkstart=16a1000, chunkend=16e1000, chunksize=262144 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000518 ms
+chunkstart=13ff000, chunkend=143f000, chunksize=262144 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000463 ms
+chunkstart=fb1000, chunkend=ff1000, chunksize=262144 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000333 ms
+chunkstart=131a000, chunkend=135a000, chunksize=262144 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000326 ms
+chunkstart=1003000, chunkend=1043000, chunksize=262144 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000314 ms
+chunkstart=d14000, chunkend=d54000, chunksize=262144 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000309 ms
+chunkstart=1489000, chunkend=14c9000, chunksize=262144 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000322 ms
+chunkstart=845000, chunkend=885000, chunksize=262144 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000345 ms
+chunkstart=ba9000, chunkend=be9000, chunksize=262144 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000312 ms
+chunkstart=23df000, chunkend=241f000, chunksize=262144 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000326 ms
+chunkstart=2015000, chunkend=2055000, chunksize=262144 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000305 ms
+chunkstart=2139000, chunkend=2179000, chunksize=262144 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000307 ms
+chunkstart=9b5000, chunkend=9f5000, chunksize=262144 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000307 ms
+chunkstart=1a08000, chunkend=1a48000, chunksize=262144 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000309 ms
+chunkstart=1839000, chunkend=1879000, chunksize=262144 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000310 ms
+chunkstart=aab000, chunkend=aeb000, chunksize=262144 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000326 ms
+chunkstart=92b000, chunkend=96b000, chunksize=262144 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000430 ms
+chunkstart=b71000, chunkend=bb1000, chunksize=262144 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000574 ms
+chunkstart=11f7000, chunkend=1237000, chunksize=262144 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000492 ms
+chunkstart=109f000, chunkend=10df000, chunksize=262144 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000514 ms
+chunkstart=1594000, chunkend=15d4000, chunksize=262144 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000330 ms
+chunkstart=197a000, chunkend=19ba000, chunksize=262144 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000314 ms
+chunkstart=952000, chunkend=992000, chunksize=262144 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000317 ms
+chunkstart=153e000, chunkend=157e000, chunksize=262144 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000345 ms
+chunkstart=1b4b000, chunkend=1b8b000, chunksize=262144 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000315 ms
+chunkstart=1a39000, chunkend=1a79000, chunksize=262144 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000308 ms
+chunkstart=154b000, chunkend=158b000, chunksize=262144 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000321 ms
+chunkstart=aa0000, chunkend=ae0000, chunksize=262144 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000305 ms
+chunkstart=dd5000, chunkend=e15000, chunksize=262144 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000300 ms
+chunkstart=1529000, chunkend=1569000, chunksize=262144 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000309 ms
+chunkstart=966000, chunkend=9a6000, chunksize=262144 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000347 ms
+chunkstart=930000, chunkend=970000, chunksize=262144 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000322 ms
+chunkstart=19ac000, chunkend=19ec000, chunksize=262144 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000339 ms
+chunkstart=2463000, chunkend=24a3000, chunksize=262144 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000330 ms
+chunkstart=1c3b000, chunkend=1cbb000, chunksize=524288 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000770 ms
+chunkstart=ddf000, chunkend=e5f000, chunksize=524288 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.001523 ms
+chunkstart=23a8000, chunkend=2428000, chunksize=524288 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000813 ms
+chunkstart=23e5000, chunkend=2465000, chunksize=524288 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000917 ms
+chunkstart=ee6000, chunkend=f66000, chunksize=524288 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000895 ms
+chunkstart=1f4a000, chunkend=1fca000, chunksize=524288 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000590 ms
+chunkstart=247e000, chunkend=24fe000, chunksize=524288 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000574 ms
+chunkstart=130a000, chunkend=138a000, chunksize=524288 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000576 ms
+chunkstart=1ee4000, chunkend=1f64000, chunksize=524288 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000587 ms
+chunkstart=219e000, chunkend=221e000, chunksize=524288 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000621 ms
+chunkstart=1a75000, chunkend=1af5000, chunksize=524288 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000626 ms
+chunkstart=197f000, chunkend=19ff000, chunksize=524288 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000584 ms
+chunkstart=1795000, chunkend=1815000, chunksize=524288 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000570 ms
+chunkstart=1482000, chunkend=1502000, chunksize=524288 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000585 ms
+chunkstart=21b2000, chunkend=2232000, chunksize=524288 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000758 ms
+chunkstart=78a000, chunkend=80a000, chunksize=524288 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.001260 ms
+chunkstart=20eb000, chunkend=216b000, chunksize=524288 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.001083 ms
+chunkstart=1884000, chunkend=1904000, chunksize=524288 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000675 ms
+chunkstart=149d000, chunkend=151d000, chunksize=524288 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000666 ms
+chunkstart=16c3000, chunkend=1743000, chunksize=524288 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000667 ms
+chunkstart=d39000, chunkend=db9000, chunksize=524288 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000675 ms
+chunkstart=f93000, chunkend=1013000, chunksize=524288 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000663 ms
+chunkstart=17a6000, chunkend=1826000, chunksize=524288 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000667 ms
+chunkstart=c4c000, chunkend=ccc000, chunksize=524288 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000666 ms
+chunkstart=1f25000, chunkend=1fa5000, chunksize=524288 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000728 ms
+chunkstart=18e4000, chunkend=1964000, chunksize=524288 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000757 ms
+chunkstart=2412000, chunkend=2492000, chunksize=524288 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.001199 ms
+chunkstart=1180000, chunkend=1200000, chunksize=524288 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.001911 ms
+chunkstart=20a8000, chunkend=2128000, chunksize=524288 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.001045 ms
+chunkstart=226b000, chunkend=22eb000, chunksize=524288 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000702 ms
+chunkstart=1ecc000, chunkend=1f4c000, chunksize=524288 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000690 ms
+chunkstart=1d5d000, chunkend=1ddd000, chunksize=524288 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000699 ms
+chunkstart=1a00000, chunkend=1a80000, chunksize=524288 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000715 ms
+chunkstart=1e13000, chunkend=1e93000, chunksize=524288 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000665 ms
+chunkstart=1d2f000, chunkend=1daf000, chunksize=524288 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000662 ms
+chunkstart=1b1e000, chunkend=1b9e000, chunksize=524288 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000634 ms
+chunkstart=22b5000, chunkend=2335000, chunksize=524288 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000661 ms
+chunkstart=1ce6000, chunkend=1d66000, chunksize=524288 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000629 ms
+chunkstart=2491000, chunkend=2511000, chunksize=524288 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000691 ms
+chunkstart=1149000, chunkend=11c9000, chunksize=524288 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.001084 ms
+chunkstart=16f7000, chunkend=1777000, chunksize=524288 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.001018 ms
+chunkstart=132e000, chunkend=13ae000, chunksize=524288 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000925 ms
+chunkstart=2284000, chunkend=2304000, chunksize=524288 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000646 ms
+chunkstart=a7c000, chunkend=afc000, chunksize=524288 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000638 ms
+chunkstart=17ec000, chunkend=186c000, chunksize=524288 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000632 ms
+chunkstart=1824000, chunkend=18a4000, chunksize=524288 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000658 ms
+chunkstart=de4000, chunkend=e64000, chunksize=524288 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000632 ms
+chunkstart=1fb2000, chunkend=2032000, chunksize=524288 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000638 ms
+chunkstart=ce3000, chunkend=d63000, chunksize=524288 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000608 ms
+chunkstart=df2000, chunkend=e72000, chunksize=524288 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.000628 ms
+chunkstart=7a8000, chunkend=8a8000, chunksize=1048576 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.001232 ms
+chunkstart=dda000, chunkend=eda000, chunksize=1048576 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.001333 ms
+chunkstart=1113000, chunkend=1213000, chunksize=1048576 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.002765 ms
+chunkstart=2484000, chunkend=2584000, chunksize=1048576 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.002376 ms
+chunkstart=24bf000, chunkend=25bf000, chunksize=1048576 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.001891 ms
+chunkstart=2207000, chunkend=2307000, chunksize=1048576 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.001200 ms
+chunkstart=18dc000, chunkend=19dc000, chunksize=1048576 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.001257 ms
+chunkstart=19aa000, chunkend=1aaa000, chunksize=1048576 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.001228 ms
+chunkstart=254e000, chunkend=264e000, chunksize=1048576 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.001123 ms
+chunkstart=1933000, chunkend=1a33000, chunksize=1048576 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.001136 ms
+chunkstart=1a56000, chunkend=1b56000, chunksize=1048576 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.001237 ms
+chunkstart=f74000, chunkend=1074000, chunksize=1048576 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.001193 ms
+chunkstart=1a36000, chunkend=1b36000, chunksize=1048576 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.001539 ms
+chunkstart=184b000, chunkend=194b000, chunksize=1048576 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.001886 ms
+chunkstart=1ca5000, chunkend=1da5000, chunksize=1048576 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.001952 ms
+chunkstart=f6a000, chunkend=106a000, chunksize=1048576 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.001182 ms
+chunkstart=901000, chunkend=a01000, chunksize=1048576 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.001183 ms
+chunkstart=25e3000, chunkend=26e3000, chunksize=1048576 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.001152 ms
+chunkstart=2138000, chunkend=2238000, chunksize=1048576 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.001215 ms
+chunkstart=1915000, chunkend=1a15000, chunksize=1048576 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.001153 ms
+chunkstart=16d9000, chunkend=17d9000, chunksize=1048576 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.001236 ms
+chunkstart=1aa1000, chunkend=1ba1000, chunksize=1048576 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.001195 ms
+chunkstart=21ab000, chunkend=22ab000, chunksize=1048576 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.001544 ms
+chunkstart=a7a000, chunkend=b7a000, chunksize=1048576 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.002046 ms
+chunkstart=1d7f000, chunkend=1e7f000, chunksize=1048576 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.001946 ms
+chunkstart=1c3c000, chunkend=1d3c000, chunksize=1048576 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.001209 ms
+chunkstart=21c8000, chunkend=22c8000, chunksize=1048576 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.001171 ms
+chunkstart=e98000, chunkend=f98000, chunksize=1048576 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.001146 ms
+chunkstart=1b98000, chunkend=1c98000, chunksize=1048576 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.001171 ms
+chunkstart=6a4000, chunkend=7a4000, chunksize=1048576 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.001195 ms
+chunkstart=a91000, chunkend=b91000, chunksize=1048576 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.001230 ms
+chunkstart=1364000, chunkend=1464000, chunksize=1048576 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.001299 ms
+chunkstart=1aed000, chunkend=1bed000, chunksize=1048576 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.002615 ms
+chunkstart=af2000, chunkend=bf2000, chunksize=1048576 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.003683 ms
+chunkstart=21ed000, chunkend=22ed000, chunksize=1048576 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.001209 ms
+chunkstart=8d3000, chunkend=9d3000, chunksize=1048576 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.001223 ms
+chunkstart=915000, chunkend=a15000, chunksize=1048576 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.001154 ms
+chunkstart=fb2000, chunkend=10b2000, chunksize=1048576 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.001173 ms
+chunkstart=24a1000, chunkend=25a1000, chunksize=1048576 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.001143 ms
+chunkstart=1b46000, chunkend=1c46000, chunksize=1048576 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.001164 ms
+chunkstart=ca2000, chunkend=da2000, chunksize=1048576 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.001211 ms
+chunkstart=174d000, chunkend=184d000, chunksize=1048576 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.001528 ms
+chunkstart=1dfc000, chunkend=1efc000, chunksize=1048576 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.001997 ms
+chunkstart=781000, chunkend=881000, chunksize=1048576 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.001906 ms
+chunkstart=1999000, chunkend=1a99000, chunksize=1048576 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.001260 ms
+chunkstart=25d8000, chunkend=26d8000, chunksize=1048576 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.001175 ms
+chunkstart=10b4000, chunkend=11b4000, chunksize=1048576 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.001219 ms
+chunkstart=1993000, chunkend=1a93000, chunksize=1048576 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.001217 ms
+chunkstart=17f2000, chunkend=18f2000, chunksize=1048576 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.001152 ms
+chunkstart=f8b000, chunkend=108b000, chunksize=1048576 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.001173 ms
+chunkstart=21ee000, chunkend=22ee000, chunksize=1048576 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.001165 ms
+chunkstart=6fb000, chunkend=7fb000, chunksize=1048576 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.001477 ms
+chunkstart=10c6000, chunkend=11c6000, chunksize=1048576 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.002867 ms
+chunkstart=e2c000, chunkend=f2c000, chunksize=1048576 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.001822 ms
+chunkstart=1deb000, chunkend=1eeb000, chunksize=1048576 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.001169 ms
+chunkstart=16cf000, chunkend=18cf000, chunksize=2097152 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.002490 ms
+chunkstart=25e6000, chunkend=27e6000, chunksize=2097152 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.002439 ms
+chunkstart=16cc000, chunkend=18cc000, chunksize=2097152 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.002479 ms
+chunkstart=101d000, chunkend=121d000, chunksize=2097152 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.002487 ms
+chunkstart=aa6000, chunkend=ca6000, chunksize=2097152 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.007908 ms
+chunkstart=972000, chunkend=b72000, chunksize=2097152 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.003205 ms
+chunkstart=71f000, chunkend=91f000, chunksize=2097152 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.002464 ms
+chunkstart=9b4000, chunkend=bb4000, chunksize=2097152 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.003003 ms
+chunkstart=dfc000, chunkend=ffc000, chunksize=2097152 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.003154 ms
+chunkstart=24d4000, chunkend=26d4000, chunksize=2097152 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.005274 ms
+chunkstart=2517000, chunkend=2717000, chunksize=2097152 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.002695 ms
+chunkstart=100e000, chunkend=120e000, chunksize=2097152 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.002330 ms
+chunkstart=262e000, chunkend=282e000, chunksize=2097152 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.002823 ms
+chunkstart=ded000, chunkend=fed000, chunksize=2097152 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.002740 ms
+chunkstart=b6f000, chunkend=d6f000, chunksize=2097152 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.003019 ms
+chunkstart=14f6000, chunkend=16f6000, chunksize=2097152 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.007175 ms
+chunkstart=20f6000, chunkend=22f6000, chunksize=2097152 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.002488 ms
+chunkstart=97d000, chunkend=b7d000, chunksize=2097152 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.002449 ms
+chunkstart=1361000, chunkend=1561000, chunksize=2097152 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.002505 ms
+chunkstart=1889000, chunkend=1a89000, chunksize=2097152 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.002453 ms
+chunkstart=102b000, chunkend=122b000, chunksize=2097152 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.004853 ms
+chunkstart=b5e000, chunkend=d5e000, chunksize=2097152 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.004162 ms
+chunkstart=15fb000, chunkend=17fb000, chunksize=2097152 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.002439 ms
+chunkstart=b3d000, chunkend=d3d000, chunksize=2097152 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.002467 ms
+chunkstart=faf000, chunkend=11af000, chunksize=2097152 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.002551 ms
+chunkstart=2339000, chunkend=2539000, chunksize=2097152 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.002475 ms
+chunkstart=1fdc000, chunkend=21dc000, chunksize=2097152 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.003788 ms
+chunkstart=1082000, chunkend=1282000, chunksize=2097152 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.004871 ms
+chunkstart=224f000, chunkend=244f000, chunksize=2097152 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.002688 ms
+chunkstart=2368000, chunkend=2568000, chunksize=2097152 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.002559 ms
+chunkstart=1c21000, chunkend=1e21000, chunksize=2097152 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.002592 ms
+chunkstart=178d000, chunkend=198d000, chunksize=2097152 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.002565 ms
+chunkstart=b8f000, chunkend=d8f000, chunksize=2097152 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.002662 ms
+chunkstart=180b000, chunkend=1a0b000, chunksize=2097152 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.003304 ms
+chunkstart=10ac000, chunkend=12ac000, chunksize=2097152 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.003890 ms
+chunkstart=1245000, chunkend=1445000, chunksize=2097152 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.002461 ms
+chunkstart=20a6000, chunkend=22a6000, chunksize=2097152 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.002536 ms
+chunkstart=2020000, chunkend=2220000, chunksize=2097152 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.002154 ms
+chunkstart=11f7000, chunkend=13f7000, chunksize=2097152 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.002796 ms
+chunkstart=ffd000, chunkend=11fd000, chunksize=2097152 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.004816 ms
+chunkstart=123d000, chunkend=143d000, chunksize=2097152 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.002535 ms
+chunkstart=13c1000, chunkend=15c1000, chunksize=2097152 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.002500 ms
+chunkstart=f58000, chunkend=1158000, chunksize=2097152 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.002505 ms
+chunkstart=7e5000, chunkend=9e5000, chunksize=2097152 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.002420 ms
+chunkstart=dd2000, chunkend=fd2000, chunksize=2097152 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.002424 ms
+chunkstart=208d000, chunkend=228d000, chunksize=2097152 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.004603 ms
+chunkstart=91e000, chunkend=b1e000, chunksize=2097152 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.003865 ms
+chunkstart=1fec000, chunkend=21ec000, chunksize=2097152 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.002471 ms
+chunkstart=730000, chunkend=930000, chunksize=2097152 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.002516 ms
+chunkstart=2033000, chunkend=2233000, chunksize=2097152 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.002438 ms
+chunkstart=1cc1000, chunkend=1ec1000, chunksize=2097152 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.002487 ms
+chunkstart=d17000, chunkend=f17000, chunksize=2097152 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.004025 ms
+chunkstart=11fb000, chunkend=13fb000, chunksize=2097152 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.004532 ms
+chunkstart=df5000, chunkend=ff5000, chunksize=2097152 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.002500 ms
+chunkstart=6ae000, chunkend=8ae000, chunksize=2097152 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.002405 ms
+chunkstart=1c43000, chunkend=1e43000, chunksize=2097152 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.002490 ms
+chunkstart=180c000, chunkend=1a0c000, chunksize=2097152 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.002140 ms
+chunkstart=fd5000, chunkend=11d5000, chunksize=2097152 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.002875 ms
+chunkstart=21e0000, chunkend=23e0000, chunksize=2097152 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.004163 ms
+chunkstart=23d7000, chunkend=25d7000, chunksize=2097152 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.002892 ms
+chunkstart=1bc0000, chunkend=1fc0000, chunksize=4194304 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.005467 ms
+chunkstart=761000, chunkend=b61000, chunksize=4194304 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.005265 ms
+chunkstart=2297000, chunkend=2697000, chunksize=4194304 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.010411 ms
+chunkstart=1d46000, chunkend=2146000, chunksize=4194304 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.005269 ms
+chunkstart=24b8000, chunkend=28b8000, chunksize=4194304 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.005190 ms
+chunkstart=771000, chunkend=b71000, chunksize=4194304 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.006174 ms
+chunkstart=1420000, chunkend=1820000, chunksize=4194304 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.012971 ms
+chunkstart=24ba000, chunkend=28ba000, chunksize=4194304 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.005287 ms
+chunkstart=1dfe000, chunkend=21fe000, chunksize=4194304 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.006094 ms
+chunkstart=105f000, chunkend=145f000, chunksize=4194304 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.009485 ms
+chunkstart=fdb000, chunkend=13db000, chunksize=4194304 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.005885 ms
+chunkstart=14ad000, chunkend=18ad000, chunksize=4194304 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.006954 ms
+chunkstart=1442000, chunkend=1842000, chunksize=4194304 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.010793 ms
+chunkstart=1fca000, chunkend=23ca000, chunksize=4194304 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.005260 ms
+chunkstart=d27000, chunkend=1127000, chunksize=4194304 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.005275 ms
+chunkstart=1f1d000, chunkend=231d000, chunksize=4194304 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.007028 ms
+chunkstart=207d000, chunkend=247d000, chunksize=4194304 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.007642 ms
+chunkstart=129d000, chunkend=169d000, chunksize=4194304 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.005272 ms
+chunkstart=17cf000, chunkend=1bcf000, chunksize=4194304 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.005406 ms
+chunkstart=67e000, chunkend=a7e000, chunksize=4194304 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.010178 ms
+chunkstart=cde000, chunkend=10de000, chunksize=4194304 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.005304 ms
+chunkstart=d21000, chunkend=1121000, chunksize=4194304 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.005279 ms
+chunkstart=1eea000, chunkend=22ea000, chunksize=4194304 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.006416 ms
+chunkstart=23b0000, chunkend=27b0000, chunksize=4194304 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.011263 ms
+chunkstart=181f000, chunkend=1c1f000, chunksize=4194304 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.005289 ms
+chunkstart=1136000, chunkend=1536000, chunksize=4194304 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.007573 ms
+chunkstart=766000, chunkend=b66000, chunksize=4194304 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.014167 ms
+chunkstart=16e3000, chunkend=1ae3000, chunksize=4194304 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.006043 ms
+chunkstart=16c2000, chunkend=1ac2000, chunksize=4194304 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.011164 ms
+chunkstart=11ba000, chunkend=15ba000, chunksize=4194304 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.005931 ms
+chunkstart=1260000, chunkend=1660000, chunksize=4194304 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.005733 ms
+chunkstart=1280000, chunkend=1680000, chunksize=4194304 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.007293 ms
+chunkstart=a6e000, chunkend=e6e000, chunksize=4194304 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.007557 ms
+chunkstart=15d0000, chunkend=19d0000, chunksize=4194304 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.005239 ms
+chunkstart=1ba7000, chunkend=1fa7000, chunksize=4194304 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.005292 ms
+chunkstart=1f5c000, chunkend=235c000, chunksize=4194304 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.009037 ms
+chunkstart=cf0000, chunkend=10f0000, chunksize=4194304 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.011361 ms
+chunkstart=21ae000, chunkend=25ae000, chunksize=4194304 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.006844 ms
+chunkstart=e91000, chunkend=1291000, chunksize=4194304 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.009044 ms
+chunkstart=b07000, chunkend=f07000, chunksize=4194304 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.005259 ms
+chunkstart=ad3000, chunkend=ed3000, chunksize=4194304 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.005231 ms
+chunkstart=1472000, chunkend=1872000, chunksize=4194304 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.010663 ms
+chunkstart=25f7000, chunkend=29f7000, chunksize=4194304 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.005460 ms
+chunkstart=ce1000, chunkend=10e1000, chunksize=4194304 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.005897 ms
+chunkstart=1251000, chunkend=1651000, chunksize=4194304 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.007524 ms
+chunkstart=113a000, chunkend=153a000, chunksize=4194304 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.005869 ms
+chunkstart=cd6000, chunkend=10d6000, chunksize=4194304 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.005592 ms
+chunkstart=2495000, chunkend=2895000, chunksize=4194304 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.006513 ms
+chunkstart=d06000, chunkend=1106000, chunksize=4194304 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.011483 ms
+chunkstart=2109000, chunkend=2509000, chunksize=4194304 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.007742 ms
+chunkstart=208c000, chunkend=248c000, chunksize=4194304 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.010944 ms
+chunkstart=815000, chunkend=c15000, chunksize=4194304 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.006026 ms
+chunkstart=167a000, chunkend=1a7a000, chunksize=4194304 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.006091 ms
+chunkstart=932000, chunkend=d32000, chunksize=4194304 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.008848 ms
+chunkstart=1a6f000, chunkend=1e6f000, chunksize=4194304 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.012770 ms
+chunkstart=6fd000, chunkend=afd000, chunksize=4194304 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.011399 ms
+chunkstart=1c20000, chunkend=2020000, chunksize=4194304 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.006585 ms
+chunkstart=1246000, chunkend=1646000, chunksize=4194304 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.006102 ms
+chunkstart=b5d000, chunkend=f5d000, chunksize=4194304 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.008232 ms
+chunkstart=136c000, chunkend=176c000, chunksize=4194304 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.007945 ms
+chunkstart=7ea000, chunkend=bea000, chunksize=4194304 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.007575 ms
+chunkstart=6ba000, chunkend=aba000, chunksize=4194304 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.006749 ms
+chunkstart=169b000, chunkend=1a9b000, chunksize=4194304 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.008389 ms
+chunkstart=1474000, chunkend=1874000, chunksize=4194304 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.005305 ms
+chunkstart=f6d000, chunkend=136d000, chunksize=4194304 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.005303 ms
+chunkstart=1000000, chunkend=1800000, chunksize=8388608 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.017339 ms
+chunkstart=116c000, chunkend=196c000, chunksize=8388608 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.012191 ms
+chunkstart=14ae000, chunkend=1cae000, chunksize=8388608 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.015944 ms
+chunkstart=12d4000, chunkend=1ad4000, chunksize=8388608 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.012086 ms
+chunkstart=11ae000, chunkend=19ae000, chunksize=8388608 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.014571 ms
+chunkstart=25c1000, chunkend=2dc1000, chunksize=8388608 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.012525 ms
+chunkstart=1ec4000, chunkend=26c4000, chunksize=8388608 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.016115 ms
+chunkstart=1b8a000, chunkend=238a000, chunksize=8388608 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.013944 ms
+chunkstart=949000, chunkend=1149000, chunksize=8388608 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.010611 ms
+chunkstart=178c000, chunkend=1f8c000, chunksize=8388608 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.012675 ms
+chunkstart=65b000, chunkend=e5b000, chunksize=8388608 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.010977 ms
+chunkstart=aeb000, chunkend=12eb000, chunksize=8388608 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.013742 ms
+chunkstart=175d000, chunkend=1f5d000, chunksize=8388608 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.010870 ms
+chunkstart=1895000, chunkend=2095000, chunksize=8388608 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.013471 ms
+chunkstart=75f000, chunkend=f5f000, chunksize=8388608 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.011841 ms
+chunkstart=113f000, chunkend=193f000, chunksize=8388608 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.013575 ms
+chunkstart=1174000, chunkend=1974000, chunksize=8388608 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.011708 ms
+chunkstart=c34000, chunkend=1434000, chunksize=8388608 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.012536 ms
+chunkstart=1dd9000, chunkend=25d9000, chunksize=8388608 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.013148 ms
+chunkstart=c8f000, chunkend=148f000, chunksize=8388608 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.012650 ms
+chunkstart=24b5000, chunkend=2cb5000, chunksize=8388608 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.010771 ms
+chunkstart=18ed000, chunkend=20ed000, chunksize=8388608 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.013521 ms
+chunkstart=1871000, chunkend=2071000, chunksize=8388608 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.011865 ms
+chunkstart=1881000, chunkend=2081000, chunksize=8388608 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.012717 ms
+chunkstart=1876000, chunkend=2076000, chunksize=8388608 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.012231 ms
+chunkstart=1977000, chunkend=2177000, chunksize=8388608 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.013638 ms
+chunkstart=f93000, chunkend=1793000, chunksize=8388608 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.011283 ms
+chunkstart=2013000, chunkend=2813000, chunksize=8388608 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.025721 ms
+chunkstart=12eb000, chunkend=1aeb000, chunksize=8388608 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.019008 ms
+chunkstart=18f7000, chunkend=20f7000, chunksize=8388608 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.014807 ms
+chunkstart=1f38000, chunkend=2738000, chunksize=8388608 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.017014 ms
+chunkstart=dc3000, chunkend=15c3000, chunksize=8388608 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.011127 ms
+chunkstart=85a000, chunkend=105a000, chunksize=8388608 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.015999 ms
+chunkstart=1a15000, chunkend=2215000, chunksize=8388608 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.010602 ms
+chunkstart=142d000, chunkend=1c2d000, chunksize=8388608 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.015868 ms
+chunkstart=ccc000, chunkend=14cc000, chunksize=8388608 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.022409 ms
+chunkstart=d18000, chunkend=1518000, chunksize=8388608 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.011046 ms
+chunkstart=17be000, chunkend=1fbe000, chunksize=8388608 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.014766 ms
+chunkstart=2385000, chunkend=2b85000, chunksize=8388608 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.010693 ms
+chunkstart=1fde000, chunkend=27de000, chunksize=8388608 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.014053 ms
+chunkstart=1f13000, chunkend=2713000, chunksize=8388608 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.023804 ms
+chunkstart=6d3000, chunkend=ed3000, chunksize=8388608 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.020485 ms
+chunkstart=6a9000, chunkend=ea9000, chunksize=8388608 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.025210 ms
+chunkstart=1730000, chunkend=1f30000, chunksize=8388608 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.019014 ms
+chunkstart=11cb000, chunkend=19cb000, chunksize=8388608 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.015943 ms
+chunkstart=20d7000, chunkend=28d7000, chunksize=8388608 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.016220 ms
+chunkstart=106e000, chunkend=186e000, chunksize=8388608 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.016264 ms
+chunkstart=afd000, chunkend=12fd000, chunksize=8388608 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.011976 ms
+chunkstart=1ab7000, chunkend=22b7000, chunksize=8388608 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.015535 ms
+chunkstart=1117000, chunkend=1917000, chunksize=8388608 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.011009 ms
+chunkstart=11fa000, chunkend=19fa000, chunksize=8388608 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.015171 ms
+chunkstart=6d8000, chunkend=ed8000, chunksize=8388608 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.010989 ms
+chunkstart=18a5000, chunkend=20a5000, chunksize=8388608 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.015318 ms
+chunkstart=2405000, chunkend=2c05000, chunksize=8388608 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.010936 ms
+chunkstart=16a2000, chunkend=1ea2000, chunksize=8388608 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.015013 ms
+chunkstart=2398000, chunkend=2b98000, chunksize=8388608 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.022422 ms
+chunkstart=11ab000, chunkend=19ab000, chunksize=8388608 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.014752 ms
+chunkstart=22aa000, chunkend=2aaa000, chunksize=8388608 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.016487 ms
+chunkstart=f5d000, chunkend=175d000, chunksize=8388608 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.012031 ms
+chunkstart=1196000, chunkend=1996000, chunksize=8388608 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.015729 ms
+chunkstart=1ba3000, chunkend=23a3000, chunksize=8388608 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.010988 ms
+chunkstart=1212000, chunkend=1a12000, chunksize=8388608 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.015511 ms
+chunkstart=996000, chunkend=1196000, chunksize=8388608 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.010688 ms
+chunkstart=e51000, chunkend=1651000, chunksize=8388608 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.015076 ms
+chunkstart=20e9000, chunkend=28e9000, chunksize=8388608 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.010728 ms
+chunkstart=67f000, chunkend=e7f000, chunksize=8388608 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.014862 ms
+chunkstart=1db2000, chunkend=25b2000, chunksize=8388608 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.010712 ms
+chunkstart=1c35000, chunkend=2435000, chunksize=8388608 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.013716 ms
+chunkstart=2053000, chunkend=2853000, chunksize=8388608 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.011054 ms
+chunkstart=1b5c000, chunkend=235c000, chunksize=8388608 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.012860 ms
+chunkstart=f57000, chunkend=1f57000, chunksize=16777216 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.024018 ms
+chunkstart=1dab000, chunkend=2dab000, chunksize=16777216 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.025611 ms
+chunkstart=148c000, chunkend=248c000, chunksize=16777216 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.043721 ms
+chunkstart=c58000, chunkend=1c58000, chunksize=16777216 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.028725 ms
+chunkstart=17e9000, chunkend=27e9000, chunksize=16777216 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.026792 ms
+chunkstart=2425000, chunkend=3425000, chunksize=16777216 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.033043 ms
+chunkstart=b70000, chunkend=1b70000, chunksize=16777216 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.033102 ms
+chunkstart=1770000, chunkend=2770000, chunksize=16777216 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.030707 ms
+chunkstart=f95000, chunkend=1f95000, chunksize=16777216 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.029893 ms
+chunkstart=702000, chunkend=1702000, chunksize=16777216 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.022050 ms
+chunkstart=6af000, chunkend=16af000, chunksize=16777216 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.028952 ms
+chunkstart=204e000, chunkend=304e000, chunksize=16777216 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.051160 ms
+chunkstart=1df6000, chunkend=2df6000, chunksize=16777216 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.038792 ms
+chunkstart=1161000, chunkend=2161000, chunksize=16777216 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.029725 ms
+chunkstart=13cd000, chunkend=23cd000, chunksize=16777216 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.029122 ms
+chunkstart=1591000, chunkend=2591000, chunksize=16777216 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.025838 ms
+chunkstart=684000, chunkend=1684000, chunksize=16777216 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.023705 ms
+chunkstart=2360000, chunkend=3360000, chunksize=16777216 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.044085 ms
+chunkstart=1933000, chunkend=2933000, chunksize=16777216 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.027445 ms
+chunkstart=1333000, chunkend=2333000, chunksize=16777216 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.027429 ms
+chunkstart=1da8000, chunkend=2da8000, chunksize=16777216 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.026654 ms
+chunkstart=1308000, chunkend=2308000, chunksize=16777216 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.035182 ms
+chunkstart=a3e000, chunkend=1a3e000, chunksize=16777216 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.026817 ms
+chunkstart=12f6000, chunkend=22f6000, chunksize=16777216 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.026639 ms
+chunkstart=197c000, chunkend=297c000, chunksize=16777216 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.026449 ms
+chunkstart=13db000, chunkend=23db000, chunksize=16777216 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.026552 ms
+chunkstart=224e000, chunkend=324e000, chunksize=16777216 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.026144 ms
+chunkstart=87c000, chunkend=187c000, chunksize=16777216 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.024413 ms
+chunkstart=22eb000, chunkend=32eb000, chunksize=16777216 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.024280 ms
+chunkstart=e6f000, chunkend=1e6f000, chunksize=16777216 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.025810 ms
+chunkstart=fb6000, chunkend=1fb6000, chunksize=16777216 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.025805 ms
+chunkstart=11fd000, chunkend=21fd000, chunksize=16777216 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.025809 ms
+chunkstart=1bab000, chunkend=2bab000, chunksize=16777216 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.026810 ms
+chunkstart=24f4000, chunkend=34f4000, chunksize=16777216 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.046282 ms
+chunkstart=237c000, chunkend=337c000, chunksize=16777216 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.030298 ms
+chunkstart=2305000, chunkend=3305000, chunksize=16777216 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.030767 ms
+chunkstart=199d000, chunkend=299d000, chunksize=16777216 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.023588 ms
+chunkstart=a20000, chunkend=1a20000, chunksize=16777216 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.031133 ms
+chunkstart=e18000, chunkend=1e18000, chunksize=16777216 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.029883 ms
+chunkstart=25e9000, chunkend=35e9000, chunksize=16777216 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.029545 ms
+chunkstart=1045000, chunkend=2045000, chunksize=16777216 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.040658 ms
+chunkstart=1708000, chunkend=2708000, chunksize=16777216 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.026714 ms
+chunkstart=1f07000, chunkend=2f07000, chunksize=16777216 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.026649 ms
+chunkstart=179a000, chunkend=279a000, chunksize=16777216 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.025859 ms
+chunkstart=2184000, chunkend=3184000, chunksize=16777216 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.023504 ms
+chunkstart=1958000, chunkend=2958000, chunksize=16777216 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.042914 ms
+chunkstart=1d02000, chunkend=2d02000, chunksize=16777216 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.032583 ms
+chunkstart=e11000, chunkend=1e11000, chunksize=16777216 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.031772 ms
+chunkstart=9c0000, chunkend=19c0000, chunksize=16777216 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.023499 ms
+chunkstart=1995000, chunkend=2995000, chunksize=16777216 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.030181 ms
+chunkstart=1106000, chunkend=2106000, chunksize=16777216 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.030099 ms
+chunkstart=18b5000, chunkend=28b5000, chunksize=16777216 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.030337 ms
+chunkstart=215c000, chunkend=315c000, chunksize=16777216 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.026791 ms
+chunkstart=17eb000, chunkend=27eb000, chunksize=16777216 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.042164 ms
+chunkstart=23aa000, chunkend=33aa000, chunksize=16777216 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.028445 ms
+chunkstart=14d7000, chunkend=24d7000, chunksize=16777216 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.026418 ms
+chunkstart=2136000, chunkend=3136000, chunksize=16777216 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.026977 ms
+chunkstart=14bf000, chunkend=24bf000, chunksize=16777216 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.025921 ms
+chunkstart=1b0a000, chunkend=2b0a000, chunksize=16777216 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.024135 ms
+chunkstart=25e0000, chunkend=35e0000, chunksize=16777216 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.023920 ms
+chunkstart=16ae000, chunkend=26ae000, chunksize=16777216 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.025526 ms
+chunkstart=d84000, chunkend=1d84000, chunksize=16777216 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.027045 ms
+chunkstart=bb0000, chunkend=1bb0000, chunksize=16777216 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.026488 ms
+chunkstart=227a000, chunkend=327a000, chunksize=16777216 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.044443 ms
+chunkstart=2589000, chunkend=3589000, chunksize=16777216 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.032960 ms
+chunkstart=1517000, chunkend=2517000, chunksize=16777216 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.033235 ms
+chunkstart=1cc8000, chunkend=2cc8000, chunksize=16777216 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.025015 ms
+chunkstart=e39000, chunkend=1e39000, chunksize=16777216 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.028590 ms
+chunkstart=1cee000, chunkend=2cee000, chunksize=16777216 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.031804 ms
+chunkstart=14fc000, chunkend=24fc000, chunksize=16777216 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.029230 ms
+chunkstart=18cc000, chunkend=28cc000, chunksize=16777216 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.025317 ms
+chunkstart=d0e000, chunkend=1d0e000, chunksize=16777216 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.027473 ms
+chunkstart=8f2000, chunkend=18f2000, chunksize=16777216 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.046391 ms
+chunkstart=fc5000, chunkend=1fc5000, chunksize=16777216 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.035011 ms
+chunkstart=a00000, chunkend=1a00000, chunksize=16777216 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.026327 ms
+chunkstart=24c5000, chunkend=44c5000, chunksize=33554432 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.051788 ms
+chunkstart=1e8d000, chunkend=3e8d000, chunksize=33554432 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.053712 ms
+chunkstart=2014000, chunkend=4014000, chunksize=33554432 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.054529 ms
+chunkstart=132d000, chunkend=332d000, chunksize=33554432 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.054728 ms
+chunkstart=79a000, chunkend=279a000, chunksize=33554432 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.050490 ms
+chunkstart=ab5000, chunkend=2ab5000, chunksize=33554432 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.052659 ms
+chunkstart=2199000, chunkend=4199000, chunksize=33554432 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.049775 ms
+chunkstart=13f6000, chunkend=33f6000, chunksize=33554432 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.051898 ms
+chunkstart=1930000, chunkend=3930000, chunksize=33554432 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.051210 ms
+chunkstart=a87000, chunkend=2a87000, chunksize=33554432 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.051887 ms
+chunkstart=1cbe000, chunkend=3cbe000, chunksize=33554432 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.049985 ms
+chunkstart=23db000, chunkend=43db000, chunksize=33554432 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.051976 ms
+chunkstart=1051000, chunkend=3051000, chunksize=33554432 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.049555 ms
+chunkstart=1e5e000, chunkend=3e5e000, chunksize=33554432 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.052370 ms
+chunkstart=707000, chunkend=2707000, chunksize=33554432 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.049686 ms
+chunkstart=126f000, chunkend=326f000, chunksize=33554432 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.054834 ms
+chunkstart=170b000, chunkend=370b000, chunksize=33554432 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.049379 ms
+chunkstart=1453000, chunkend=3453000, chunksize=33554432 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.085916 ms
+chunkstart=1f59000, chunkend=3f59000, chunksize=33554432 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.079337 ms
+chunkstart=a7a000, chunkend=2a7a000, chunksize=33554432 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.055904 ms
+chunkstart=1808000, chunkend=3808000, chunksize=33554432 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.050742 ms
+chunkstart=c21000, chunkend=2c21000, chunksize=33554432 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.051723 ms
+chunkstart=1f2a000, chunkend=3f2a000, chunksize=33554432 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.050510 ms
+chunkstart=1490000, chunkend=3490000, chunksize=33554432 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.052234 ms
+chunkstart=1a0a000, chunkend=3a0a000, chunksize=33554432 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.049595 ms
+chunkstart=25f6000, chunkend=45f6000, chunksize=33554432 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.054548 ms
+chunkstart=1eee000, chunkend=3eee000, chunksize=33554432 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.050349 ms
+chunkstart=13c6000, chunkend=33c6000, chunksize=33554432 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.051960 ms
+chunkstart=73c000, chunkend=273c000, chunksize=33554432 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.050274 ms
+chunkstart=f70000, chunkend=2f70000, chunksize=33554432 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.052057 ms
+chunkstart=1ef2000, chunkend=3ef2000, chunksize=33554432 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.049243 ms
+chunkstart=1b37000, chunkend=3b37000, chunksize=33554432 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.052106 ms
+chunkstart=9c0000, chunkend=29c0000, chunksize=33554432 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.049913 ms
+chunkstart=2424000, chunkend=4424000, chunksize=33554432 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.058221 ms
+chunkstart=f70000, chunkend=2f70000, chunksize=33554432 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.050430 ms
+chunkstart=199a000, chunkend=399a000, chunksize=33554432 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.067667 ms
+chunkstart=1e0f000, chunkend=3e0f000, chunksize=33554432 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.052823 ms
+chunkstart=d7a000, chunkend=2d7a000, chunksize=33554432 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.052498 ms
+chunkstart=e9a000, chunkend=2e9a000, chunksize=33554432 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.049644 ms
+chunkstart=2410000, chunkend=4410000, chunksize=33554432 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.051584 ms
+chunkstart=659000, chunkend=2659000, chunksize=33554432 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.049919 ms
+chunkstart=d8c000, chunkend=2d8c000, chunksize=33554432 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.051840 ms
+chunkstart=1439000, chunkend=3439000, chunksize=33554432 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.049666 ms
+chunkstart=2526000, chunkend=4526000, chunksize=33554432 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.051915 ms
+chunkstart=7ff000, chunkend=27ff000, chunksize=33554432 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.049541 ms
+chunkstart=f50000, chunkend=2f50000, chunksize=33554432 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.052494 ms
+chunkstart=1667000, chunkend=3667000, chunksize=33554432 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.050331 ms
+chunkstart=7b6000, chunkend=27b6000, chunksize=33554432 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.053751 ms
+chunkstart=2010000, chunkend=4010000, chunksize=33554432 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.049966 ms
+chunkstart=2314000, chunkend=4314000, chunksize=33554432 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.051629 ms
+chunkstart=2570000, chunkend=4570000, chunksize=33554432 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.049540 ms
+chunkstart=1c44000, chunkend=3c44000, chunksize=33554432 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.051531 ms
+chunkstart=1937000, chunkend=3937000, chunksize=33554432 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.049773 ms
+chunkstart=2098000, chunkend=4098000, chunksize=33554432 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.051491 ms
+chunkstart=1716000, chunkend=3716000, chunksize=33554432 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.049857 ms
+chunkstart=17c7000, chunkend=37c7000, chunksize=33554432 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.052448 ms
+chunkstart=b5b000, chunkend=2b5b000, chunksize=33554432 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.050536 ms
+chunkstart=1590000, chunkend=3590000, chunksize=33554432 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.052290 ms
+chunkstart=b6f000, chunkend=2b6f000, chunksize=33554432 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.049709 ms
+chunkstart=1f59000, chunkend=3f59000, chunksize=33554432 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.051736 ms
+chunkstart=1abe000, chunkend=3abe000, chunksize=33554432 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.049503 ms
+chunkstart=1c5b000, chunkend=3c5b000, chunksize=33554432 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.051686 ms
+chunkstart=f1a000, chunkend=2f1a000, chunksize=33554432 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.051179 ms
+chunkstart=1cf5000, chunkend=3cf5000, chunksize=33554432 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.051806 ms
+chunkstart=9b4000, chunkend=29b4000, chunksize=33554432 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.050620 ms
+chunkstart=2186000, chunkend=4186000, chunksize=33554432 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.051704 ms
+chunkstart=23f2000, chunkend=43f2000, chunksize=33554432 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.050590 ms
+chunkstart=180d000, chunkend=380d000, chunksize=33554432 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.051388 ms
+chunkstart=11ba000, chunkend=31ba000, chunksize=33554432 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.049656 ms
+chunkstart=2333000, chunkend=4333000, chunksize=33554432 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.053197 ms
+chunkstart=12af000, chunkend=32af000, chunksize=33554432 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.068621 ms
+chunkstart=10ab000, chunkend=30ab000, chunksize=33554432 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.053546 ms
+chunkstart=1945000, chunkend=3945000, chunksize=33554432 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.053818 ms
+chunkstart=da8000, chunkend=2da8000, chunksize=33554432 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.059721 ms
+chunkstart=fcf000, chunkend=2fcf000, chunksize=33554432 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.076373 ms
+chunkstart=1c6a000, chunkend=3c6a000, chunksize=33554432 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.055089 ms
+chunkstart=153e000, chunkend=353e000, chunksize=33554432 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.054864 ms
+chunkstart=839000, chunkend=2839000, chunksize=33554432 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.050022 ms
+chunkstart=1d1b000, chunkend=3d1b000, chunksize=33554432 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.051651 ms
+chunkstart=ce5000, chunkend=2ce5000, chunksize=33554432 bytes
+---starting testing chunk
+---chunk test ended - success
+Time spent: 0.050513 ms
