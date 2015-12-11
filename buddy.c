@@ -1,4 +1,3 @@
-#include <math.h>
 #include <stdlib.h>
 #include <string.h>
 #include <stdio.h>
@@ -24,7 +23,7 @@ int binit(void *chunkpointer, int chunksize) {
 	chunksize *= 1024;
 	start_address =  (long int *) chunkpointer;
 
-	printf("binit called with chunksize\n%d\nChunkPtr\n%ld\n\n", chunksize, (long int) start_address);
+	// printf("binit called with chunksize\n%d\nChunkPtr\n%ld\n\n", chunksize, (long int) start_address);
 
 	//set all blocks to not free
 	memset(start_address, 0, chunksize);
@@ -33,9 +32,9 @@ int binit(void *chunkpointer, int chunksize) {
 	//precompute powers of two for faster performance
 	int current_power;
 	int i = 0;
-	printf("i\t:\tcurrent_power\n");
+	// printf("i\t:\tcurrent_power\n");
 	for(current_power = chunksize; current_power >= MIN_REQ_SIZE; current_power /= 2){
-		printf("%d\t:\t%d\n", i, current_power);
+		// printf("%d\t:\t%d\n", i, current_power);
 		powers_of_two[i] = current_power;
 		i++;
 	}
@@ -51,20 +50,20 @@ int binit(void *chunkpointer, int chunksize) {
 
 	//save into global variables
 	size = chunksize;
-	num_of_levels = (int) log2((double) (size / MIN_REQ_SIZE) );
+	num_of_levels = log2((size / MIN_REQ_SIZE) );
 
 	return (0);		// if success
 }
 
 void *balloc(int objectsize) {
 
-	printf("balloc called with objectsize = %d\n", objectsize);
+	// printf("balloc called with objectsize = %d\n", objectsize);
 
 	// consider storage cost of additional preample tag that indicates whether the block is free or allocated
-	objectsize+= sizeof(long int);
+	objectsize += sizeof(long int);
 
 	// check now that it is within allowed sizes. If not, then return -1 error message
-	if (objectsize > size || objectsize - 1 < MIN_REQ_SIZE)
+	if (objectsize > size || objectsize - sizeof(long int) < MIN_REQ_SIZE)
 		return (void *) -1;
 
 	// find the appropriate level to allocate from
@@ -138,7 +137,7 @@ long int allocate_at_level(int level){
 void bfree(void *objectptr) {
 	long int address = (long int) objectptr;
 	address -= sizeof(long int);
-	printf("====bfree is called for obj at relative address: %ld =====\n", address - (long int)start_address);
+	// printf("====bfree is called for obj at relative address: %ld =====\n", address - (long int)start_address);
 
 	// The computed address needs to be within the memory chunk
 	if (address < (long int) start_address || address > (long int) start_address + size){
@@ -150,7 +149,7 @@ void bfree(void *objectptr) {
 
 	// level of this block to be deallocated
 	int level = (int) ptr[0];
-	printf("Level = %d\n", level);
+	//printf("Level = %d\n", level);
 
 	//special case for level 0 since it has no buddies
 	if (level == 0){
@@ -161,19 +160,19 @@ void bfree(void *objectptr) {
 	//finding the address of the buddy block
 	int my_index  = index_in_level_of(address, level);
 	long int buddy_address = buddy_address_of_index(my_index, level);
-	printf("My index = %d\n", my_index);
-	printf("buddy relative address = %d\n", buddy_address - (long int) start_address);
+	//printf("My index = %d\n", my_index);
+	//printf("buddy relative address = %d\n", buddy_address - (long int) start_address);
 	//checking if the buddy is split or not, and if it is not split, then whether it is allocated or free
 	long int * buddy_ptr = (long int *) buddy_address;	
 	//it is at the same level, and is free
 	if (buddy_ptr[0] == -level){
-		printf("The buddy is at the same level %d\n", level);
+		//printf("The buddy is at the same level %d\n", level);
 		ptr[0] = 0; // indicate that this block no longer exists
 
 		//remove the buddy from the free blocks list at this level
 		//special case for if the buddy was the 1st block in the list
 		if (free_block_lists[level] == (long int)buddy_address){
-			printf("Our buddy is first of its list\n");
+			//printf("Our buddy is first of its list\n");
 			free_block_lists[level] = buddy_ptr[1];
 			if(buddy_ptr[1] != (long int) NULL){
 				long int* next_block = (long int *) buddy_ptr[1];
@@ -181,7 +180,7 @@ void bfree(void *objectptr) {
 			}
 			
 		} else {
-			printf("Our buddy is not first of its list\n");
+			//printf("Our buddy is not first of its list\n");
 
 			long int * prev = (long int *) buddy_ptr[2];
 			prev[1] = (long int) buddy_ptr[1];
@@ -193,15 +192,15 @@ void bfree(void *objectptr) {
 
 		long int * first_of_the_buddies = buddy_ptr;
 		if (my_index % 2 == 0){
-			printf("We are the first block not the second. Level - 1 is: %d\n", level-1);
+			//printf("We are the first block not the second. Level - 1 is: %d\n", level-1);
 			first_of_the_buddies = ptr;
 		}
 
-		printf("The relative address of the first of the blocks = %ld\n", (long int )first_of_the_buddies - (long int) start_address);
+		//printf("The relative address of the first of the blocks = %ld\n", (long int )first_of_the_buddies - (long int) start_address);
 		first_of_the_buddies[0] = level - 1; // this block will now be a block of the previous level
 
 		first_of_the_buddies++; //to account for the word storing the level info
-		printf("Relative address to be sent down is: %ld\n", (long int) first_of_the_buddies - (long int) start_address );
+		//printf("Relative address to be sent down is: %ld\n", (long int) first_of_the_buddies - (long int) start_address );
 		bfree((void *) first_of_the_buddies);
 	} else {
 		ptr[0] = -level; // indicate that it is free at this level
@@ -218,7 +217,7 @@ void bfree(void *objectptr) {
 }
 
 void bprint(void) {
-	printf("%s","---->\tbprint called\n");
+	// printf("%s","---->\tbprint called\n");
 	
 
 	long int * i = start_address;
@@ -262,6 +261,15 @@ long int buddy_address_of_index(int index, int level){
 
 	return address;
 } 
+
+int log2(int num){
+	int count = 0;
+	while(num > 1){
+		num /= 2;
+		count++;
+	}
+	return count;
+}
 
 
 

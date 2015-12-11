@@ -1,25 +1,43 @@
 #include <stdlib.h>
 #include <stdio.h>
 #include <unistd.h>
+#include <time.h>
 
 #include "buddy.h"
 
+/*
+	This is a modified version of app.c, modified to take command arguments so 
+	that it can be tested very quickly with a simple bash script.
+*/
+
+clock_t begin, end;
+double time_spent;
+
 int main(int argc, char *argv[])
 {
+	begin = clock();
 	void *chunkptr;
 	void *endptr;
 	char *charptr;
 	int ret;
 	int i;
 	int size;
-	void *x1, *x2, *x3;	// object pointers
+	int num_of_objects;
+	// void *x1, *x2, *x3, *x4;	// object pointers
+	// a list of object pointers
+	void ** object_pointers;
+	// a list of block sizes
 
-	if (argc != 2) {
+	if (argc < 2) {
 		printf("usage: app <size in KB>\n");
 		exit(1);
 	}
 
 	size = atoi(argv[1]);
+
+	num_of_objects = (size * 1024) / 256;
+	object_pointers = (void**)malloc(sizeof(void*) * num_of_objects);
+
 
 	// allocate a chunk 
 	chunkptr = sbrk(0);	// end of data segment
@@ -43,18 +61,19 @@ int main(int argc, char *argv[])
 		exit(1);
 	}
 
-	bprint();
-	x1 = balloc(600);
-	x2 = balloc(4500);
-	x3 = balloc(1300);
-	bprint();
+	// bprint();
+	for(i = 0; i < num_of_objects; i++){
+		object_pointers[i] = balloc(500);
+		// bprint();
+	}
+	for(i = 0; i < num_of_objects; i++){
+		bfree(object_pointers[i]);
+		// bprint();
+	}
 
-	bfree(x1);
-	bprint();
-	bfree(x2);
-	bprint();
-	bfree(x3);
-	bprint();
+	end = clock();
+	time_spent = (double)(end - begin) / CLOCKS_PER_SEC;
+	printf("Time spent: %f ms\n", time_spent);
 
 	return 0;
 }

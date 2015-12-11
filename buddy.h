@@ -8,4 +8,5 @@ void bprint(void);
 long int allocate_at_level(int level);
 int index_in_level_of(long int address, int level);
 long int buddy_address_of_index(int index, int level);
+int log2(int num);
 #endif
