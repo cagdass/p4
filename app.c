@@ -45,15 +45,16 @@ int main(int argc, char *argv[])
 
 	bprint();
 	x1 = balloc(600);
-	bprint();
 	x2 = balloc(4500);
-	bprint();
 	x3 = balloc(1300);
 	bprint();
 
 	bfree(x1);
+	bprint();
 	bfree(x2);
+	bprint();
 	bfree(x3);
+	bprint();
 
 	return 0;
 }
