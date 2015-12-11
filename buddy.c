@@ -80,7 +80,7 @@ void *balloc(int objectsize) {
 	    return (void *)-1;
     // otherwise, return the address incremented by one to protect the word that is indicating that the block is not free and is actaully allocated
     else{
-    	block_address++;
+    	block_address += sizeof(long int);
         return (void *) block_address;
     }
 }
@@ -136,8 +136,8 @@ long int allocate_at_level(int level){
 }
 
 void bfree(void *objectptr) {
-	objectptr--;
 	long int address = (long int) objectptr;
+	address -= sizeof(long int);
 	printf("====bfree is called for obj at relative address: %ld =====\n", address - (long int)start_address);
 
 	// The computed address needs to be within the memory chunk
@@ -167,11 +167,13 @@ void bfree(void *objectptr) {
 	long int * buddy_ptr = (long int *) buddy_address;	
 	//it is at the same level, and is free
 	if (buddy_ptr[0] == -level){
+		printf("The buddy is at the same level %d\n", level);
 		ptr[0] = 0; // indicate that this block no longer exists
 
 		//remove the buddy from the free blocks list at this level
 		//special case for if the buddy was the 1st block in the list
 		if (free_block_lists[level] == (long int)buddy_address){
+			printf("Our buddy is first of its list\n");
 			free_block_lists[level] = buddy_ptr[1];
 			if(buddy_ptr[1] != (long int) NULL){
 				long int* next_block = (long int *) buddy_ptr[1];
@@ -179,6 +181,8 @@ void bfree(void *objectptr) {
 			}
 			
 		} else {
+			printf("Our buddy is not first of its list\n");
+
 			long int * prev = (long int *) buddy_ptr[2];
 			prev[1] = (long int) buddy_ptr[1];
 			if ( buddy_ptr[1] != (long int) NULL){
@@ -189,11 +193,15 @@ void bfree(void *objectptr) {
 
 		long int * first_of_the_buddies = buddy_ptr;
 		if (my_index % 2 == 0){
+			printf("We are the first block not the second. Level - 1 is: %d\n", level-1);
 			first_of_the_buddies = ptr;
 		}
 
+		printf("The relative address of the first of the blocks = %ld\n", (long int )first_of_the_buddies - (long int) start_address);
 		first_of_the_buddies[0] = level - 1; // this block will now be a block of the previous level
+
 		first_of_the_buddies++; //to account for the word storing the level info
+		printf("Relative address to be sent down is: %ld\n", (long int) first_of_the_buddies - (long int) start_address );
 		bfree((void *) first_of_the_buddies);
 	} else {
 		ptr[0] = -level; // indicate that it is free at this level
